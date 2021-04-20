@@ -134,6 +134,8 @@ function PickRandomString() {
         <br />
         >Did button and string replacement debugging 
         <br />
+        >Worked on deployment 
+        <br />
 
         <tr>
           <td class="left">Sifaw Bouylazane:</td>
